@@ -1,21 +1,15 @@
-# Climate Challenge Week 0 – EDA (Ethiopia)
+# Task 1: Project Setup
 
-This project performs data profiling, cleaning, and exploratory data analysis (EDA) on Ethiopia’s historical climate dataset (2015–2026).
+This task focuses on setting up the project repository and development environment.
 
-## Objectives
-- Clean and preprocess climate data
-- Analyze temperature, rainfall, humidity, and wind patterns
-- Identify seasonal trends and correlations
+## Completed Steps
+- Initialized Git repository
+- Created project folder structure
+- Set up virtual environment (venv)
+- Added .gitignore file (excluded venv, data, cache files)
+- Installed required packages
+- Created requirements.txt
+- Created initial GitHub workflow setup
 
-## Dataset
-Ethiopia climate dataset (2015–2026)
-
-## Key Steps
-- Data cleaning (-999 handling, missing values, duplicates)
-- Time series analysis (temperature and rainfall trends)
-- Monthly climate analysis
-- Correlation and scatter plot analysis
-
-## Setup Instructions
-```bash
-pip install -r requirements.txt
+## Purpose
+This setup ensures a clean and organized environment for data analysis tasks in later stages.
